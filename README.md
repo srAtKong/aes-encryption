@@ -10,7 +10,7 @@ The plugin currently encrypts the request body in the access phase and logs the 
 
 # Note
 
-The starter plugin frameowkr is for reference, and not production ready. It shouldn't be used as is without proper externalization of plugin configuration, error handling and thorough unit/integration testing and performance testing.
+The starter plugin framework is for reference, and not production ready. It shouldn't be used as is without proper externalization of plugin configuration, error handling and thorough unit/integration testing and performance testing.
 
 # Example usage
 
